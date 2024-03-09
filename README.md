@@ -1,1 +1,1 @@
-# web_scrabing
+# web_scraping
